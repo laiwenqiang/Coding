@@ -15,7 +15,7 @@ import java.util.concurrent.locks.ReentrantLock;
  * Created by laiwenqiang on 2017/7/13.
  */
 
-public class ConditionTest {
+public class ConditionLoop {
 
     public static void main(String[] args) {
         final Print print = new Print();
