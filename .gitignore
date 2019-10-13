@@ -5,4 +5,5 @@ readmunity.iml
 out
 logs
 .idea
+*.iml
 target
